@@ -258,6 +258,19 @@ input, select, textarea {
 		margin: -1.5em 0 1.5em 0;
 	}
 
+	h2.other-work-h2{
+		text-indent: -1em;
+	}
+
+	ul.other-work{
+		list-style: none;
+		text-indent: -.7xfm;
+	}
+
+	h2.get-in-touch{
+		margin: -1.5em 0 1.5em 0;
+	}
+
 	span.intro-sentence {
 		color:  white;
 	}
